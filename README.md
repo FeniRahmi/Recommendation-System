@@ -16,15 +16,15 @@ Pada saat ini sejumlah besar orang membeli produk secara online dan offline. Jum
 Merupakan sebuah proses penyaringan informasi dengan mengumpulkan penilaian pengguna (peringkat) mengenai suatu hal. Dalam hal ini collaborative filtering dapat merekomendasikan sesuatu berdasarkan penilaian dari pengguna lain.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-# Content Based Filtering
+## Content Based Filtering
 Content-Based Filtering secara eksklusif menggunakan historical target pengguna. Content-Based Filtering melatih model regresi untuk masing-masing pengguna berdasarkan fitur konten. Pada content-based filtering terkadang tidak membutuhkan hal lain selain preferensi historis pengguna pada sejumlah item. Karena didasarkan pada data historis, asumsi inti di sini adalah bahwa pengguna yang telah sepakat di masa lalu cenderung juga setuju di masa depan.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-# Hybrid Filtering
+## Hybrid Filtering
 Pada hybrid filtering dengan menggabungkan Collaborative Filtering dan Content Based Filtering memungkin sistem untuk dapat menggunakan prediksi berbasis konten pada pengguna dengan banyak contoh pelatihan dan kolaborasi pada orang lain dengan melihat fitur yang dapat diekstraksi dari peringkat pengguna lain.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-# AB Testing
+## AB Testing
 AB Testing digunakan untuk memahami perbedaan antara dua versi secara statistik signifikan. Dengan adanya AB Testing memungkinkan perusahaan memahami perilaku pelanggan dengan pendekatan yang sesuai.
 
 
